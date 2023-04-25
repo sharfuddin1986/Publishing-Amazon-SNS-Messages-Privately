@@ -10,11 +10,16 @@ Highlights:
 solution-
 
 	Write the code in yaml file
-  Cloud formation through create  vpc and EC-2 instance. 
-  Create SNS Subscreption and verify it.
-  Create a Vpc Endpoint and attach witH Aws sns service.
-  AWS SNS service Publish the messsage.
-  Subscriber Recive the message sucessfully.
+	
+        Cloud formation through create  vpc and EC-2 instance. 
+	
+        Create SNS Subscreption and verify it.
+	
+        Create a Vpc Endpoint and attach witH Aws sns service.
+	
+        AWS SNS service Publish the messsage.
+ 	
+        Subscriber Recive the message sucessfully.
   
 
 
