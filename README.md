@@ -23,17 +23,17 @@ Highlights:
 
 solution-
 
-	Write the code in yaml file
+	Use an AWS CloudFormation template to automatically create a temporary private network in your AWS account.
 	
-        Cloud formation through create  vpc and EC-2 instance. 
+        Create a VPC endpoint that connects the VPC with Amazon SNS 
 	
         Create SNS Subscreption and verify it.
 	
-        Create a Vpc Endpoint and attach witH Aws sns service.
+        Log in to an Amazon EC2 instance and publish a message privately to an Amazon SNS topic..
 	
         AWS SNS service Publish the messsage.
  	
-        Subscriber Recive the message sucessfully.
+        Verify that the message was delivered successfully.
   
 
 
