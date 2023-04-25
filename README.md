@@ -23,7 +23,7 @@ Highlights:
 
 solution-
 
-	Use an AWS CloudFormation template to automatically create a temporary private network in your AWS account.
+	Use an AWS CloudFormation template to automatically create  private network with ec-2 instance in AWS account.
 	
         Create a VPC endpoint that connects the VPC with Amazon SNS 
 	
